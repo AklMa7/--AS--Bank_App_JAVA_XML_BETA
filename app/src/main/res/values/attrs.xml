@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ShortcutView">
+        <attr name="icon" format="reference"/>
+        <attr name="title" format="string|reference"/>
+    </declare-styleable>
+
+
+    <declare-styleable name="HeaderBarView">
+        <attr name="icon_title" format="reference"/>
+        <attr name="icon_logo" format="reference"/>
+
+    </declare-styleable>
+</resources>
+
+
